@@ -1,0 +1,14 @@
+/home/sagar/Desktop/HealthAPI/bin/Debug/netcoreapp2.2/HealthAPI.deps.json
+/home/sagar/Desktop/HealthAPI/bin/Debug/netcoreapp2.2/HealthAPI.runtimeconfig.json
+/home/sagar/Desktop/HealthAPI/bin/Debug/netcoreapp2.2/HealthAPI.runtimeconfig.dev.json
+/home/sagar/Desktop/HealthAPI/bin/Debug/netcoreapp2.2/HealthAPI.dll
+/home/sagar/Desktop/HealthAPI/bin/Debug/netcoreapp2.2/HealthAPI.pdb
+/home/sagar/Desktop/HealthAPI/obj/Debug/netcoreapp2.2/HealthAPI.csprojAssemblyReference.cache
+/home/sagar/Desktop/HealthAPI/obj/Debug/netcoreapp2.2/HealthAPI.csproj.CoreCompileInputs.cache
+/home/sagar/Desktop/HealthAPI/obj/Debug/netcoreapp2.2/HealthAPI.RazorAssemblyInfo.cache
+/home/sagar/Desktop/HealthAPI/obj/Debug/netcoreapp2.2/HealthAPI.RazorAssemblyInfo.cs
+/home/sagar/Desktop/HealthAPI/obj/Debug/netcoreapp2.2/HealthAPI.AssemblyInfoInputs.cache
+/home/sagar/Desktop/HealthAPI/obj/Debug/netcoreapp2.2/HealthAPI.AssemblyInfo.cs
+/home/sagar/Desktop/HealthAPI/obj/Debug/netcoreapp2.2/HealthAPI.RazorTargetAssemblyInfo.cache
+/home/sagar/Desktop/HealthAPI/obj/Debug/netcoreapp2.2/HealthAPI.dll
+/home/sagar/Desktop/HealthAPI/obj/Debug/netcoreapp2.2/HealthAPI.pdb
